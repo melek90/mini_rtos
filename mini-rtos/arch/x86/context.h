@@ -16,5 +16,3 @@ void context_switch(void **old_sp,void *new_sp);
 }
 #endif
 #endif
-
-
